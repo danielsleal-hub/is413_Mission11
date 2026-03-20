@@ -12,6 +12,7 @@ This project is a full-stack web application built using ASP.NET Core Web API an
 
 ## Technologies Used
 
+
 - ASP.NET Core Web API
 - Entity Framework Core (SQLite)
 - React (Vite + TypeScript)
